@@ -1,0 +1,5 @@
+005 - 100 Idle			0.167 to 3.33 (duration = 3.163)
+105 - 145 walk			105/390 *13 to 145/390 *13 = 3.5 to 4.83
+150 - 180 run			5.0, duration 0.933
+185 - 285 alert
+290 - 390 converstaion
